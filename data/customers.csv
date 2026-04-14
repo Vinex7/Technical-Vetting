@@ -1,0 +1,5 @@
+customer_id,email,full_name,signup_date,country_code,is_active
+1,john.doe@example.com,John Doe,2024-01-15,US,true
+2,jane.smith@example.com,Jane Smith,2024-02-20,ZA,true
+3,bob.brown@example.com,Bob Brown,2024-03-05,GB,false
+

@@ -1,0 +1,4 @@
+{"order_id": 1001, "customer_id": 1, "order_ts": "2024-04-01T10:00:00Z", "status": "placed", "total_amount": 250.00, "currency": "USD"}
+{"order_id": 1002, "customer_id": 2, "order_ts": "2024-04-02T12:30:00Z", "status": "shipped", "total_amount": 150.00, "currency": "ZAR"}
+{"order_id": 1003, "customer_id": 3, "order_ts": "2024-04-03T09:15:00Z", "status": "cancelled", "total_amount": 75.00, "currency": "GBP"}
+

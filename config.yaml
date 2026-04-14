@@ -1,0 +1,12 @@
+database:
+  dbname: postgres
+  user: postgres
+  password: pass
+  host: localhost
+  port: 5432
+
+files:
+  customers: data/customers.csv
+  orders: data/orders.jsonl
+  order_items: data/order_items.csv
+

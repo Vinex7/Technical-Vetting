@@ -1,0 +1,6 @@
+order_id,line_no,sku,quantity,unit_price,category
+1001,1,SKU123,2,50.00,Electronics
+1001,2,SKU124,1,150.00,Home
+1002,1,SKU125,3,30.00,Books
+1003,1,SKU126,1,75.00,Toys
+
